@@ -1,0 +1,683 @@
+[
+  {
+    "cpLimit": 10000,
+    "firstSeen": "2026-06-21",
+    "published": true,
+    "sources": [
+      {
+        "videoTitle": "*BUFFED* Mega Garchomp is DOMINANT in Mega Masters! 2696 ELO!! | Pokemon GO PvP",
+        "author": "HomeSliceHenry",
+        "videoId": "WK2GwZW5etI",
+        "uploadDate": "2026-06-21T14:00:27Z",
+        "videoUrl": "https://www.youtube.com/watch?v=WK2GwZW5etI",
+        "scannedAt": "2026-06-21T15:01:07Z",
+        "viewCount": 1744,
+        "likeCount": 117
+      }
+    ],
+    "confidence": 5,
+    "description": "Mega Garchomp lead that banks energy and pivots into Zacian as the safe swap, with Xerneas as the closer in the back. Garchomp leverages its buffed legacy Earth Power (now 50 energy) for fast, hard-hitting damage and Twister baits, while the two fairies clean up dragons in the back.",
+    "performanceNotes": [
+      "Went 9-1 live on stream up to 2696 ELO",
+      "Buffed Earth Power gives Garchomp much faster pacing and brutal neutral/super-effective damage",
+      "Garchomp's bulk lets it pressure shields from megas like Rayquaza while the fairy back line cleans up"
+    ],
+    "cupId": "mega_10000",
+    "pokemon": [
+      {
+        "moves": [
+          "EARTH_POWER",
+          "TWISTER"
+        ],
+        "speciesId": "garchomp_mega"
+      },
+      {
+        "speciesId": "zacian_crowned_sword"
+      },
+      {
+        "speciesId": "xerneas"
+      }
+    ],
+    "eloRange": "2696",
+    "lastSeen": "2026-06-21",
+    "teamKey": "mega_10000:garchomp_mega,xerneas,zacian_crowned_sword"
+  },
+  {
+    "performanceNotes": [
+      "Buffed Dragon Ascent fires off extremely fast and deals absurd damage, even through resists like Mega Metagross",
+      "Won repeatedly even from negative leads; only Mega Metagross is called a corebreaker for the team",
+      "Zacian closes games hard with Close Combat against Lugia, Pulkia, and Zekrom"
+    ],
+    "published": true,
+    "pokemon": [
+      {
+        "moves": [
+          "DRAGON_TAIL",
+          "DRAGON_ASCENT",
+          "BREAKING_SWIPE"
+        ],
+        "speciesId": "rayquaza_mega"
+      },
+      {
+        "speciesId": "lunala"
+      },
+      {
+        "speciesId": "zacian_crowned_sword"
+      }
+    ],
+    "cpLimit": 10000,
+    "firstSeen": "2026-06-17",
+    "sources": [
+      {
+        "scannedAt": "2026-06-17T15:00:49Z",
+        "viewCount": 1757,
+        "likeCount": 151,
+        "videoTitle": "*BUFFED* Mega Rayquaza is ABSURD in the Mega Master League! | Pokémon GO Battle League",
+        "uploadDate": "2026-06-17T14:00:07Z",
+        "videoUrl": "https://www.youtube.com/watch?v=gQQ8PXSrorA",
+        "author": "HomeSliceHenry",
+        "videoId": "gQQ8PXSrorA"
+      }
+    ],
+    "cupId": "mega_10000",
+    "lastSeen": "2026-06-17",
+    "confidence": 5,
+    "description": "Mega Rayquaza lead with a Lunala safe swap and Zacian in the back. Rayquaza abuses the buffed Dragon Ascent (110 power / 45 energy) for fast, massive damage, Lunala pivots in for Spatial Rend/Lugia coverage with Shadow Ball, and Zacian cleans up with Close Combat and Behemoth Blade.",
+    "teamKey": "mega_10000:lunala,rayquaza_mega,zacian_crowned_sword"
+  },
+  {
+    "teamKey": "mega_10000:mewtwo_mega_y,palkia,zacian_crowned_sword",
+    "cupId": "mega_10000",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "palkia"
+      },
+      {
+        "speciesId": "mewtwo_mega_y",
+        "moves": [
+          "PSYSTRIKE",
+          "THUNDERBOLT"
+        ]
+      },
+      {
+        "speciesId": "zacian_crowned_sword"
+      }
+    ],
+    "published": true,
+    "confidence": 4,
+    "description": "Palkia lead with Mega Mewtwo Y as the featured mega safe-swap and Zacian Crowned Sword as the closer. Mega Mewtwo Y runs Thunderbolt over its legacy Shadow Ball to hammer Mega Gyarados, Kyogre, and Yveltal, while spamming Psystrike for huge neutral damage.",
+    "performanceNotes": [
+      "Mega Mewtwo Y's massive 7000+ CP stat product lets Psystrike pick up multi-KO sweeps even on resisted hits",
+      "Thunderbolt one-shots Yveltal and answers Kyogre/Gyarados matchups Shadow Ball couldn't",
+      "Mega Mewtwo Y wins charge attack priority (CMP) over Zacian in the mirror"
+    ],
+    "sources": [
+      {
+        "author": "HomeSliceHenry",
+        "videoId": "rtHZcWouiCs",
+        "videoUrl": "https://www.youtube.com/watch?v=rtHZcWouiCs",
+        "videoTitle": "*HUNDO* MEGA MEWTWO Y has arrived in the Mega Master League! | Pokemon GO Battle League",
+        "uploadDate": "2026-06-18T14:00:11Z",
+        "viewCount": 1835,
+        "likeCount": 135,
+        "scannedAt": "2026-06-18T15:00:45Z"
+      }
+    ],
+    "firstSeen": "2026-06-18",
+    "lastSeen": "2026-06-18"
+  },
+  {
+    "teamKey": "mega_10000:baxcalibur,ho_oh,kyogre_primal",
+    "cupId": "mega_10000",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "baxcalibur",
+        "moves": [
+          "GLAIVE_RUSH",
+          "AVALANCHE"
+        ]
+      },
+      {
+        "speciesId": "kyogre_primal",
+        "moves": [
+          "AVALANCHE",
+          "ORIGIN_PULSE"
+        ]
+      },
+      {
+        "speciesId": "ho_oh",
+        "moves": [
+          "BRAVE_BIRD"
+        ]
+      }
+    ],
+    "published": true,
+    "confidence": 5,
+    "description": "Mega Master League team leading Baxcalibur with the new Glaive Rush to chunk opponents and bait shields, swapping into Primal Kyogre (Avalanche + Origin Pulse elite move) as the central wincon, with Ho-Oh and Brave Bird as the closer that beats mega water types.",
+    "performanceNotes": [
+      "Primal Kyogre is described as 'busted' — does huge damage even through resists, and almost nothing wants to switch into it",
+      "Baxcalibur's Glaive Rush does ~half HP and specifically targets the many Kyogre in the meta",
+      "Ho-Oh with Brave Bird survives a Mega Gyarados hit and can win even the hardest counter matchup, but the team struggles into buffed Mega Rayquaza"
+    ],
+    "sources": [
+      {
+        "author": "JonkusPKMN",
+        "videoId": "Azmt0JI1YR0",
+        "videoUrl": "https://www.youtube.com/watch?v=Azmt0JI1YR0",
+        "videoTitle": "I HUNTED down PRIMAL KYOGRE with *NEW* GLAIVE RUSH Baxcalibur in the Mega Master League!",
+        "uploadDate": "2026-06-21T08:36:39Z",
+        "viewCount": 134,
+        "likeCount": 10,
+        "scannedAt": "2026-06-21T09:00:30Z"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-21"
+  },
+  {
+    "teamKey": "mega_10000:genesect_burn,mewtwo_mega_y,zekrom",
+    "cupId": "mega_10000",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "genesect_burn",
+        "moves": [
+          "TECHNO_BLAST_BURN",
+          "X_SCISSOR"
+        ]
+      },
+      {
+        "speciesId": "zekrom",
+        "moves": [
+          "FUSION_BOLT",
+          "CRUNCH"
+        ]
+      },
+      {
+        "speciesId": "mewtwo_mega_y",
+        "moves": [
+          "PSYSTRIKE",
+          "THUNDERBOLT"
+        ]
+      }
+    ],
+    "published": true,
+    "confidence": 4,
+    "description": "Master League team leading Burn Genesect for its super-effective coverage (Techno Blast fire nukes steels, X-Scissor destroys Mewtwo), with Zekrom as the premier safe switch and Mega Mewtwo Y as the closer. Strategy is to intentionally lose the lead with Mega Mewtwo, farm Psycho Cuts/Psystrikes for an energy lead, then spam charge moves.",
+    "performanceNotes": [
+      "Genesect wins fights despite being much lower CP thanks to super-effective coverage on nearly everything",
+      "Zekrom is the best safe switch because it resists fast moves and takes no super-effective charge damage from meta threats",
+      "Mega Mewtwo Y runs Thunderbolt over Shadow Ball specifically to handle flyers like Moltres/Yveltal",
+      "One-shot Xerneas with a neutral Psystrike after building an energy lead"
+    ],
+    "eloRange": "Expert",
+    "sources": [
+      {
+        "author": "YasserPoGO",
+        "videoId": "kWakX8aNQ8M",
+        "videoUrl": "https://www.youtube.com/watch?v=kWakX8aNQ8M",
+        "videoTitle": "The ULTIMATE Mega Mewtwo Y Guide: Tips, Tricks & INSANE Damage! Feat @realTheActualNomad",
+        "uploadDate": "2026-09-02T16:36:59Z",
+        "viewCount": 40,
+        "likeCount": 5,
+        "scannedAt": "2026-09-02T17:01:07Z"
+      }
+    ],
+    "firstSeen": "2026-09-02",
+    "lastSeen": "2026-09-02"
+  },
+  {
+    "teamKey": "mega_10000:gyarados_mega,reshiram,zekrom",
+    "cupId": "mega_10000",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "gyarados_mega",
+        "moves": [
+          "AQUA_TAIL",
+          "TWISTER"
+        ]
+      },
+      {
+        "speciesId": "zekrom",
+        "moves": [
+          "OUTRAGE",
+          "FUSION_BOLT"
+        ]
+      },
+      {
+        "speciesId": "reshiram",
+        "moves": [
+          "STONE_EDGE",
+          "FUSION_FLARE"
+        ]
+      }
+    ],
+    "published": true,
+    "confidence": 5,
+    "description": "Mega Gyarados lead (best buddied, running Twister over Crunch for better damage into dragons) with Zekrom as the safe swap and Reshiram as the closer, built specifically to answer the Mega Mewtwo variants in Mega Master League.",
+    "performanceNotes": [
+      "Mega Gyarados wins most leads vs Primal Kyogre, Primal Groudon, Mega Rayquaza, Mega Mewtwo Y, Mega Metagross and Mega Garchomp",
+      "Twister keeps the backline dragons safe and beats the Gyarados mirror",
+      "Reshiram's Stone Edge is more consistent and easier to reach than Draco Meteor, strong into Kyurem variants; Xerneas is the main core-breaker"
+    ],
+    "sources": [
+      {
+        "author": "CalebPeng",
+        "videoId": "3_U3A8cT01Q",
+        "videoUrl": "https://www.youtube.com/watch?v=3_U3A8cT01Q",
+        "videoTitle": "NEVER LOSE TO MEWTWO AGAIN (Mega Master League)",
+        "uploadDate": "2026-06-21T07:11:06Z",
+        "viewCount": 101,
+        "likeCount": 5,
+        "scannedAt": "2026-06-21T08:00:37Z"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-21"
+  },
+  {
+    "confidence": 4,
+    "eloRange": "2000",
+    "lastSeen": "2026-06-17",
+    "teamKey": "mega_10000:kyogre,mewtwo_mega_y,zacian_crowned_sword",
+    "description": "Mega Master League team built around a 7,000+ CP Mega Mewtwo Y as the closer, with Zacian leading and a purified Hundo Kyogre as the safe swap. Kyogre is used to bait/farm energy so Mega Mewtwo Y comes in loaded with a shield advantage where it is most dangerous, leveraging Psystrike (efficient), Focus Blast (for steels like Metagross), and Psycho Cut farming.",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "zacian_crowned_sword",
+        "moves": [
+          "BEHEMOTH_BLADE",
+          "CLOSE_COMBAT"
+        ]
+      },
+      {
+        "moves": [
+          "WATERFALL",
+          "AVALANCHE",
+          "THUNDER"
+        ],
+        "speciesId": "kyogre"
+      },
+      {
+        "moves": [
+          "PSYCHO_CUT",
+          "PSYSTRIKE",
+          "FOCUS_BLAST"
+        ],
+        "speciesId": "mewtwo_mega_y"
+      }
+    ],
+    "published": true,
+    "performanceNotes": [
+      "Mega Mewtwo Y is devastating when it enters with a shield advantage and built-up energy",
+      "Focus Blast handles double-resisting steels like Mega Metagross where Psystrike falls short",
+      "Kyogre's Avalanche + Thunder pressures opponents and farms energy into Mega Mewtwo Y; Zacian closes with Behemoth Blade + Close Combat"
+    ],
+    "cupId": "mega_10000",
+    "firstSeen": "2026-06-17",
+    "sources": [
+      {
+        "scannedAt": "2026-06-17T19:00:42Z",
+        "viewCount": 188,
+        "likeCount": 13,
+        "videoId": "80Q6JXfFtIw",
+        "videoUrl": "https://www.youtube.com/watch?v=80Q6JXfFtIw",
+        "author": "Reis2TheOccasion",
+        "videoTitle": "MEGA MEWTWO Y MASTERCLASS!! *WITH FOCUS BLAST!!* | Pokémon GO Battle League",
+        "uploadDate": "2026-06-17T18:27:09Z"
+      }
+    ]
+  },
+  {
+    "teamKey": "mega_10000:kyurem_black,mewtwo_mega_x,zacian_crowned_sword",
+    "cupId": "mega_10000",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "mewtwo_mega_x",
+        "moves": [
+          "COUNTER",
+          "PSYSTRIKE",
+          "THUNDERBOLT"
+        ]
+      },
+      {
+        "speciesId": "kyurem_black"
+      },
+      {
+        "speciesId": "zacian_crowned_sword"
+      }
+    ],
+    "published": true,
+    "confidence": 4,
+    "description": "Mega Master League team built around Mega Mewtwo X leading, with Kyurem Black as a pivot and Zacian (Crowned Sword) closing. Mega Mewtwo X farms down teams with STAB Counter and Psystrike, while Zacian cleans up with Behemoth Blade/Close Combat.",
+    "performanceNotes": [
+      "Mega Mewtwo X's STAB Counter (gained from psychic/fighting subtyping) plus huge attack lets it farm down nearly any non-fighting-resist mon",
+      "Energy head-start on Mega Mewtwo X lets it run over even Mega Rayquaza, one of its best counters",
+      "Zacian closes games by countering down opposing leads and surviving charged moves at low shields"
+    ],
+    "sources": [
+      {
+        "author": "HomeSliceHenry",
+        "videoId": "8BDFVipRHzc",
+        "videoUrl": "https://www.youtube.com/watch?v=8BDFVipRHzc",
+        "videoTitle": "*NEW* MEGA MEWTWO X is absolutely INCREDIBLE in the Mega Master League",
+        "uploadDate": "2026-06-19T14:00:43Z",
+        "viewCount": 1892,
+        "likeCount": 163,
+        "scannedAt": "2026-06-19T15:00:53Z"
+      }
+    ],
+    "firstSeen": "2026-06-19",
+    "lastSeen": "2026-06-19"
+  },
+  {
+    "performanceNotes": [
+      "Submitter reported a 30-0 run with this team (still counting)",
+      "A Mega Side Strike is 108 damage at 10 energy, doing 70-80% to most level 50 legendaries",
+      "Kyurem White's Dragon Pulse chosen to stay neutral into Primal Kyogre and Mega Gyarados"
+    ],
+    "cpLimit": 10000,
+    "published": true,
+    "pokemon": [
+      {
+        "moves": [
+          "PSYSTRIKE",
+          "SHADOW_BALL"
+        ],
+        "speciesId": "mewtwo_mega_y"
+      },
+      {
+        "speciesId": "marshadow"
+      },
+      {
+        "moves": [
+          "DRAGON_PULSE",
+          "ICE_BURN"
+        ],
+        "speciesId": "kyurem_white"
+      }
+    ],
+    "cupId": "mega_10000",
+    "firstSeen": "2026-06-17",
+    "sources": [
+      {
+        "scannedAt": "2026-06-17T18:04:14Z",
+        "viewCount": 101,
+        "likeCount": 10,
+        "author": "DanOttawaPOGO",
+        "videoId": "ctYb7XYAg_A",
+        "videoUrl": "https://www.youtube.com/watch?v=ctYb7XYAg_A",
+        "videoTitle": "First Look at MEGA MEWTWO Y in the MASTER LEAGUE | Pokémon GO Battle League",
+        "uploadDate": "2026-06-17T17:15:25Z"
+      }
+    ],
+    "eloRange": "Legend",
+    "lastSeen": "2026-06-17",
+    "confidence": 5,
+    "description": "Viewer-submitted (Tristan) Mega Master League team showcased and played through by the creator: Mega Mewtwo Y lead with legacy Side Strike + Shadow Ball, Marshadow as the safe swap, and a non-standard Kyurem White running Dragon Pulse (for neutral coverage into Primal Kyogre and Mega Gyarados) plus Ice Burn. Strategy leans on Mega Mewtwo Y's enormous attack to threaten nearly everything with Side Strike spam.",
+    "teamKey": "mega_10000:kyurem_white,marshadow,mewtwo_mega_y"
+  },
+  {
+    "teamKey": "mega_10000:lugia,mewtwo_mega_x,zacian_hero",
+    "cupId": "mega_10000",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "mewtwo_mega_x"
+      },
+      {
+        "speciesId": "lugia"
+      },
+      {
+        "speciesId": "zacian_hero"
+      }
+    ],
+    "published": true,
+    "confidence": 4,
+    "description": "Mega Mewtwo X as an upper-shield closer that farms down weakened Pokémon and spams Psystrike/Psycho Cut. It has Counter and takes super effective from flying and Shadow Claw damage, so Lugia is added for flyer coverage and Zacian (can run double steel) rounds it out. Do not lead Mega Mewtwo X — keep it in the back and only shield it.",
+    "performanceNotes": [
+      "Best upper-shield Pokémon — farm down half-HP targets then spam",
+      "Weak to flying and Shadow Claw, so protect it with Lugia",
+      "Machamp counters it but takes super effective from Confusion",
+      "Pro tip: never lead Mega Mewtwo X and only spend shields on it"
+    ],
+    "sources": [
+      {
+        "author": "YasserPoGO",
+        "videoId": "3r0vdd3pLkg",
+        "videoUrl": "https://www.youtube.com/watch?v=3r0vdd3pLkg",
+        "videoTitle": "TOP TEAMS in the Mega Master League | Pokemon GO PvP",
+        "uploadDate": "2026-08-31T13:00:18Z",
+        "viewCount": 77,
+        "likeCount": 11,
+        "scannedAt": "2026-08-31T14:02:59Z"
+      }
+    ],
+    "firstSeen": "2026-08-31",
+    "lastSeen": "2026-08-31"
+  },
+  {
+    "teamKey": "mega_10000:lunala,reshiram,tyranitar_mega",
+    "cupId": "mega_10000",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "tyranitar_mega",
+        "moves": [
+          "BRUTAL_SWING",
+          "FIRE_BLAST"
+        ]
+      },
+      {
+        "speciesId": "reshiram"
+      },
+      {
+        "speciesId": "lunala"
+      }
+    ],
+    "published": true,
+    "confidence": 5,
+    "description": "Level 55 Mega Tyranitar lead into Reshiram safe swap and Lunala closer for Mega Master League. Tyranitar hard-walls and pressures Mega Mewtwo Y (core-breaking the Mega Mewtwo Y + Yveltal meta), baits out threats, and Lunala cleans up 1v1 endgames. Creator ran Fire Blast over Stone Edge but calls it a mistake, switching to Stone Edge later.",
+    "performanceNotes": [
+      "Mega Tyranitar completely walls Mega Mewtwo Y's energy and shuts it down",
+      "Fire Blast one-shots Zacian/Zamazenta but Stone Edge is far better overall (needed for the Tyranitar mirror)",
+      "Lunala reliably wins the closing 1v1s (e.g. vs Zacian) after Tyranitar chip and Mewtwo bait-out"
+    ],
+    "sources": [
+      {
+        "author": "HomeSliceHenry",
+        "videoId": "_ujBNRa49v4",
+        "videoUrl": "https://www.youtube.com/watch?v=_ujBNRa49v4",
+        "videoTitle": "THIS WEEKEND ONLY! *LEVEL 55* Mega Tyranitar might be a problem...",
+        "uploadDate": "2026-09-05T14:00:02Z",
+        "viewCount": 1420,
+        "likeCount": 130,
+        "scannedAt": "2026-09-05T15:00:46Z"
+      }
+    ],
+    "firstSeen": "2026-09-05",
+    "lastSeen": "2026-09-05"
+  },
+  {
+    "teamKey": "mega_10000:mewtwo_mega_x,zacian_crowned_sword,zamazenta_crowned_shield",
+    "cupId": "mega_10000",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "mewtwo_mega_x",
+        "moves": [
+          "COUNTER",
+          "PSYSTRIKE",
+          "THUNDERBOLT"
+        ]
+      },
+      {
+        "speciesId": "zacian_crowned_sword"
+      },
+      {
+        "speciesId": "zamazenta_crowned_shield",
+        "moves": [
+          "ICE_FANG"
+        ]
+      }
+    ],
+    "published": true,
+    "confidence": 4,
+    "description": "Mega Master League team built around a level 52 Mega Mewtwo X lead that acts as a one-Pokémon wrecking ball, with a Zacian safe swap (Metal Claw/Close Combat/Behemoth Blade) and a bulky Zamazenta closer. Mewtwo X uses legacy Counter (raid-only) and an elite-TM'd Psystrike.",
+    "performanceNotes": [
+      "Level 52 Mega Mewtwo X gains counter break points vs Kyurem, Dusk Mane, and Garchomp; neutral Counters out-damage super-effective moves",
+      "Dominant carry that swept through Mega Gyarados, Palkia, Groudon, Mega Rayquaza and more",
+      "Zamazenta closer with Ice Fang shreds Mega Dragonite, using banked Zacian energy to close out games"
+    ],
+    "sources": [
+      {
+        "author": "HomeSliceHenry",
+        "videoId": "N0iSv2HZYDg",
+        "videoUrl": "https://www.youtube.com/watch?v=N0iSv2HZYDg",
+        "videoTitle": "*LEVEL 52* Mega Mewtwo X DESTROYS EVERYTHING!",
+        "uploadDate": "2026-07-12T14:00:13Z",
+        "viewCount": 1575,
+        "likeCount": 102,
+        "scannedAt": "2026-07-12T15:02:00Z"
+      }
+    ],
+    "firstSeen": "2026-07-12",
+    "lastSeen": "2026-07-12"
+  },
+  {
+    "teamKey": "mega_10000:mewtwo_mega_y,yveltal,zacian_hero",
+    "cupId": "mega_10000",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "mewtwo_mega_y"
+      },
+      {
+        "speciesId": "yveltal"
+      },
+      {
+        "speciesId": "zacian_hero"
+      }
+    ],
+    "published": true,
+    "confidence": 4,
+    "description": "Mega Mewtwo Y lead in Mega Master League, backed by Yveltal and Zacian. The strategy revolves around leveraging the new Future Sight Plus mega bonus move for huge burst damage, with Yveltal as a flexible safe swap and Zacian held for the endgame to handle threats like Gyarados.",
+    "performanceNotes": [
+      "Future Sight Plus (169 base damage at mega level 4) can one-shot targets like Mega Dragonite and Xerneas even through resistances",
+      "Yveltal is extremely strong in a Mega-Mewtwo-Y-dominated meta, using Oblivion Wing to boost defense and stay alive",
+      "Zacian is the key endgame piece needed to beat Gyarados and close games"
+    ],
+    "sources": [
+      {
+        "author": "HomeSliceHenry",
+        "videoId": "mBHJ6n4xKns",
+        "videoUrl": "https://www.youtube.com/watch?v=mBHJ6n4xKns",
+        "videoTitle": "FUTURE SIGHT+ Damage is *INSANE* on Mega Mewtwo Y...",
+        "uploadDate": "2026-09-02T03:51:12Z",
+        "viewCount": 7,
+        "likeCount": 36,
+        "scannedAt": "2026-09-02T04:00:32Z"
+      }
+    ],
+    "firstSeen": "2026-09-02",
+    "lastSeen": "2026-09-02"
+  },
+  {
+    "teamKey": "mega_10000:mewtwo_mega_y,zacian_crowned_sword,zekrom",
+    "cupId": "mega_10000",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "zacian_crowned_sword",
+        "moves": [
+          "METAL_CLAW",
+          "BEHEMOTH_BLADE",
+          "CLOSE_COMBAT"
+        ]
+      },
+      {
+        "speciesId": "mewtwo_mega_y",
+        "moves": [
+          "PSYCHO_CUT",
+          "PSYSTRIKE",
+          "SHADOW_BALL"
+        ]
+      },
+      {
+        "speciesId": "zekrom",
+        "moves": [
+          "FUSION_BOLT",
+          "OUTRAGE"
+        ]
+      }
+    ],
+    "published": true,
+    "confidence": 5,
+    "description": "Mega Master League team built around a level 52 (mega level 4) Mega Mewtwo Y with legacy Psystrike + Shadow Ball, using Zacian as lead and Mega Mewtwo Y as the safe swap, with Zekrom providing Fusion Bolt farm-down pressure and CMP plays.",
+    "performanceNotes": [
+      "Mega Mewtwo Y's absurdly fast charge pacing two-shots meta staples like Zacian even through resisted Psystrike",
+      "Level 52 max mega level wins CMP/charge-priority ties in the Mewtwo mirror",
+      "Zekrom's Fusion Bolt and Zacian's Behemoth Blade enable farm-downs and catch plays that preserve shields for the Mega Mewtwo Y closeout"
+    ],
+    "sources": [
+      {
+        "author": "HomeSliceHenry",
+        "videoId": "YmsiPV2j_X0",
+        "videoUrl": "https://www.youtube.com/watch?v=YmsiPV2j_X0",
+        "videoTitle": "*LEVEL 52* Mega Mewtwo Y is TERRIFYING!",
+        "uploadDate": "2026-07-13T14:00:10Z",
+        "viewCount": 2346,
+        "likeCount": 159,
+        "scannedAt": "2026-07-13T15:00:47Z"
+      }
+    ],
+    "firstSeen": "2026-07-13",
+    "lastSeen": "2026-07-13"
+  },
+  {
+    "teamKey": "mega_10000:starmie_mega,yveltal,zacian_crowned_sword",
+    "cupId": "mega_10000",
+    "cpLimit": 10000,
+    "pokemon": [
+      {
+        "speciesId": "starmie_mega"
+      },
+      {
+        "speciesId": "zacian_crowned_sword"
+      },
+      {
+        "speciesId": "yveltal",
+        "moves": [
+          "DARK_PULSE",
+          "OBLIVION_WING"
+        ]
+      }
+    ],
+    "published": true,
+    "confidence": 4,
+    "description": "Mega Starmie lead into a Zacian safe swap with Yveltal as the closer in the Mega Master League. Mega Starmie spams Aqua Jet on ~10-turn pacing to pressure leads, Zacian handles zero-shield matchups with Behemoth Blade/Close Combat, and Yveltal boosts defense with Oblivion Wing to answer Mega Mewtwo Y.",
+    "performanceNotes": [
+      "Mega Starmie walls Zacian's moveset and can over-farm before closing with Aqua Jet",
+      "Yveltal is the designated answer to Mega Mewtwo Y (as long as it lacks Thunderbolt/Ice Beam) and can snowball defense with repeated Oblivion Wing",
+      "Struggles hard into Mega Mewtwo Y (unplayable for Starmie), Mega Tyranitar, and Mega Mewtwo X; creator regretted not running Focus Blast on Yveltal"
+    ],
+    "sources": [
+      {
+        "author": "HomeSliceHenry",
+        "videoId": "rPWolWb2sRI",
+        "videoUrl": "https://www.youtube.com/watch?v=rPWolWb2sRI",
+        "videoTitle": "*NEW* MEGA STARMIE hunts Zacian in the Mega Master League!",
+        "uploadDate": "2026-08-23T14:00:02Z",
+        "viewCount": 1760,
+        "likeCount": 186,
+        "scannedAt": "2026-08-23T15:01:13Z"
+      }
+    ],
+    "firstSeen": "2026-08-23",
+    "lastSeen": "2026-08-23"
+  }
+]

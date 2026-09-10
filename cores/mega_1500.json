@@ -1,0 +1,77 @@
+[
+  {
+    "coreKey": "mega_1500:altaria_mega,swampert",
+    "cupId": "mega_1500",
+    "cpLimit": 1500,
+    "pokemonIds": [
+      "altaria_mega",
+      "swampert"
+    ],
+    "description": "In his summary the creator advises that if you run Mega Altaria you should make sure to bring a Swampert with it, with Tinkaton as the ideal third — the pair covers Altaria's shortcomings.",
+    "confidence": 3,
+    "sources": [
+      {
+        "author": "YasserPoGO",
+        "videoId": "AXl38gcVPCA",
+        "videoUrl": "https://www.youtube.com/watch?v=AXl38gcVPCA",
+        "videoTitle": "TOP TEAMS in the Mega Great League | Pokemon GO PvP",
+        "date": "2026-08-31",
+        "scannedAt": "2026-08-31T19:01:50Z"
+      }
+    ],
+    "published": true,
+    "publishOverride": null,
+    "firstSeen": "2026-08-31",
+    "lastSeen": "2026-08-31"
+  },
+  {
+    "coreKey": "mega_1500:corviknight,swampert_mega",
+    "cupId": "mega_1500",
+    "cpLimit": 1500,
+    "pokemonIds": [
+      "corviknight",
+      "swampert_mega"
+    ],
+    "description": "The creator says Mega Swampert loves getting paired with Corviknight, calling it a great pairing where the two complement each other as the backbone of the team.",
+    "confidence": 4,
+    "sources": [
+      {
+        "author": "YasserPoGO",
+        "videoId": "AXl38gcVPCA",
+        "videoUrl": "https://www.youtube.com/watch?v=AXl38gcVPCA",
+        "videoTitle": "TOP TEAMS in the Mega Great League | Pokemon GO PvP",
+        "date": "2026-08-31",
+        "scannedAt": "2026-08-31T19:01:50Z"
+      }
+    ],
+    "published": true,
+    "publishOverride": null,
+    "firstSeen": "2026-08-31",
+    "lastSeen": "2026-08-31"
+  },
+  {
+    "coreKey": "mega_1500:ninetales_shadow,sableye_mega",
+    "cupId": "mega_1500",
+    "cpLimit": 1500,
+    "pokemonIds": [
+      "ninetales_shadow",
+      "sableye_mega"
+    ],
+    "description": "Mega Sableye gains huge defense/bulk while keeping the same CP, so the creator pairs it with Shadow Ninetales to recover the attack lost from going Mega — a much tankier Sableye with the same aggressive output. His go-to Mega Sableye pairing.",
+    "confidence": 4,
+    "sources": [
+      {
+        "author": "YasserPoGO",
+        "videoId": "AXl38gcVPCA",
+        "videoUrl": "https://www.youtube.com/watch?v=AXl38gcVPCA",
+        "videoTitle": "TOP TEAMS in the Mega Great League | Pokemon GO PvP",
+        "date": "2026-08-31",
+        "scannedAt": "2026-08-31T19:01:50Z"
+      }
+    ],
+    "published": true,
+    "publishOverride": null,
+    "firstSeen": "2026-08-31",
+    "lastSeen": "2026-08-31"
+  }
+]
